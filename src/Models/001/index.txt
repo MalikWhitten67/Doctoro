@@ -1,0 +1,23 @@
+Only describe what the user has - return the illness
+1. **"Describe symptoms related to painless swelling of lymph nodes in the neck." → Lymphoma**  
+2. **"List symptoms including night sweats, fever above 103°F, shortness of breath, and family history of lymphoma." → Lymphoma**  
+3. **"Describe feelings of wanting to end one's life, substance abuse, and increasing interest in drugs." → Mental_Health_Disorder**  
+4. **"Explain social withdrawal, avoiding friends, and losing interest in social activities." → Mental_Health_Disorder**  
+5. **"Mention new habits involving substances, self-harm tendencies like playing with knives, and suicidal thoughts." → Mental_Health_Disorder**  
+6. **"Describe unexplained weight loss without trying." → Hepatocellular_Carcinoma**  
+7. **"List symptoms of feeling full after a small meal, nausea, vomiting, a knot under the ribs, and itchy skin." → Hepatocellular_Carcinoma**  
+8. **"Describe upper abdominal pain, jaundice, and unexplained weight loss." → Gallbladder_Cancer**  
+9. **"List symptoms including bloating, fever, nausea, vomiting, abdominal lumps, and jaundice." → Gallbladder_Cancer**  
+10. **"Describe sneezing, throat burning, red and twitching eyes." → Allergies**  
+11. **"List symptoms of hives, swelling around the mouth, itchy body, and a blocked/runny nose." → Allergies**  
+12. **"Describe a lump below the rib cage, jaundice, and loss of appetite." → Liver_Cancer**  
+13. **"List symptoms including rapid weight loss, dark urine, and fatigue." → Liver_Cancer**  
+14. **"Describe having flu, cold, and COVID at the same time, decaying teeth, gum disease, and low energy due to sugar deficiency." → Hypogeusia**  
+15. **"List symptoms including vitamin B12 deficiency, smoking, poor hygiene, weakened taste, and inability to detect flavors." → Hypogeusia**  
+16. **"Describe fever, chills, muscle aches, dizziness, vomiting, dry cough, and breathing issues." → Coronavirus_COVID**  
+17. **"List symptoms including dizziness, fatigue, diarrhea, stomach pain, muscle weakness, loss of taste and smell, chest tightness, and cyanosis." → COVID_Pneumonia**  
+18. **"Describe swollen feet and legs, frothy urine, reduced urination, chronic diarrhea, enlarged kidney, and nausea." → AA_Amyloidosis**  
+19. **"List symptoms including anxiety, depression, encephalopathy, hypoglycemia, hallucinations, stiff muscles, dementia, and loss of motor control." → Alpers_Disease**  
+20. **"Describe severe belly pain, fast heartbeat, low blood pressure, dizziness, fainting, clammy hands, and breathlessness." → Abdominal_Aortic_Aneurysm**  
+21. **"Mention self-harm thoughts and use of recreational drugs or alcohol." → Mental_Health_Disorder**  
+
